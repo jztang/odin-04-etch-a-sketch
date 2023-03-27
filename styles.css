@@ -1,0 +1,21 @@
+body {
+  background-color: #202020;
+}
+
+.container {
+  height: 800px;
+  width: 800px;
+  border: solid 1px white;
+  margin: 0 auto;
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: grey;
+  border: solid 1px white;
+  box-sizing: border-box;
+}
